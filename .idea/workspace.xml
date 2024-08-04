@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9adc80e2-9846-4387-8b7f-f77c8b2b5f77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anime List .txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab13_FileListMaker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileListMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SafeInput.java" afterDir="false" />
+    <list default="true" id="9adc80e2-9846-4387-8b7f-f77c8b2b5f77" name="Changes" comment="Assigment 13 Finished - ZA">
+      <change beforePath="$PROJECT_DIR$/src/FileListMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileListMaker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +46,20 @@
       <option name="presentableId" value="Default" />
       <updated>1722735667383</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assigment 13 Finished - ZA">
+      <option name="closed" value="true" />
+      <created>1722743682454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722743682454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Assigment 13 Finished - ZA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assigment 13 Finished - ZA" />
   </component>
 </project>

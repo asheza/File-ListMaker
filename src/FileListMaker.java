@@ -76,13 +76,15 @@ public class FileListMaker {
 
                         System.out.println("The command you selected is Q.\n");
 
-                        boolean finalAnswer = SafeInput.getYNConfirm(in,"Do you wish to save the file?");
+                        boolean finalAnswer = SafeInput.getYNConfirm(in,"Do you wish to continue?");
 
-                        if (finalAnswer)
-                        {
-                            saveList();
-                            System.out.println("Thank you for your input. Goodbye.");
-                            System.exit(0);
+                        if (needsToBeSaved) {
+                            boolean saveChanges = SafeInput.getYNConfirm(in, "You have unsaved changes. Do you" +
+                                    " want to save before opening a new list?");
+                            if (saveChanges)
+                            {
+                                saveList();
+                            }
                         }
 
                         if (!finalAnswer)
